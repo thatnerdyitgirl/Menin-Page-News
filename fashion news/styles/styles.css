@@ -1,0 +1,16 @@
+html{
+    color-scheme: dark;
+}
+body{
+    padding: 0.5em;
+    padding-left: 1em;
+    background-color: pink;
+    font-family: "Josefin Sans"
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
